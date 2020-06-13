@@ -1,7 +1,4 @@
 object Sorts{
-	def main(args: Array[String])={
-		println(mergesort(List(4, 7, 3, 8, 5, 5, 3, 32, 8, 653)))
-	}
 	def quicksort(list: List[Int]): List[Int]={
 		if(list.length<=1){
 			list
