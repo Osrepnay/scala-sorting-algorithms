@@ -1,1 +1,4 @@
-# scala-sorting-algorithms
+# Scala Sorting Algorithms
+## Current Algorithms:
+- Quicksort  
+- Mergesort  
